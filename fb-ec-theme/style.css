@@ -1,0 +1,89 @@
+/*
+Theme Name: WP FB Commerce Companion
+Theme URI: http://getshopped.com/
+Description: Companion Theme for the Facebook extension to WP e-Commerce
+Author: davidfcarr
+Version: 1.0
+Tags: facebook, e-commerce
+*/
+
+#fb_content {margin: 0; padding:0 ;}*/
+.alignleft {float: left;margin: 5px 20px 20px 0;}
+.alignright {float: right;margin: 5px 0 20px 20px;}
+.aligncenter {display: block;margin: 0 auto 20px auto;}
+.alignnone {margin: 0;}
+.textleft {text-align: left;}
+.textcenter {text-align: center;}
+.textright {text-align: right;}
+.wp-caption.alignleft {float: left;margin: 5px 20px 20px 0px;}
+.wp-caption.alignright {float: right;margin: 5px 0 20px 20px;}
+.wp-caption.aligncenter {display: block;margin: 0 auto 20px auto;}
+.wp-caption.alignnone {margin: 20px 0;}
+.post .wp-caption {border: 1px solid #cccccc;background: #ebebeb;text-align: center;padding: 10px 5px 0 5px;}
+.post .wp-caption-text { margin: 0;font-size: 12px;}
+body{background:#fff;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;color:#333;margin:0;padding:0;border:0;text-align:left;direction:ltr;unicode-bidi:embed;width:520px;overflow: hidden;}
+h1,h2,h3,h4,h5,h6{font-size:13px;color:#1c2a47;margin:0;margin-bottom: 0.5em; padding:0}
+h1{font-size:14px}
+h4,h5{font-size:11px}
+p,div,td,th {font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;text-align:left;}
+p {margin:1em 0;}
+.fbtab-widget, .fbtab-message {margin-top: 10px; margin-bottom: 10px;}
+div#default_products_page_container {
+background-color: #fff;
+}
+div.fb_product_display {
+width: 240px;
+height: 325px;
+overflow: hidden;
+border: thin solid blue;
+float: left;
+margin-left: 5px;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-right: 0;
+padding: 5px;
+background-color: #fff;
+}
+div.fb_productcol {
+clear: both;
+}
+#list_view_products_page_container, #single_product_page_container, #checkout_page_container {
+width: 100%;
+margin: 0;
+padding: 0;
+}
+table, th, td
+{
+border: 1px solid black;
+border-collapse:collapse;
+vertical-align: top;
+}
+td {
+border-left: none;
+border-right: none;
+}
+div.cartlink {
+padding: 5px;
+clear: both;
+}
+div#nav-below a {
+font-size: 16px;
+font-style: italic;
+}
+div.navlinks {
+background-color: #60F;
+text-align: right;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+div.navlinks a {
+color: #FFF;
+text-decoration: none;
+font-weight: bold;
+}
+#logo a {
+text-decoration: none;
+font-size:18px;
+color: #60F;
+}
